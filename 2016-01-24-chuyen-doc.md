@@ -1,3 +1,6 @@
+---
+layout: post
+---
 Hôm qua tui đọc được mí cái này hay nè:
 
 > 1. Google và Apple đã từng có thương vụ mật, trong đó anh Google trả Apple 1 tỉ đô (700 triệu bảng) để Apple đặt Google Search mặc định cho iPhone và iPad.

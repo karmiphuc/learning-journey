@@ -1,5 +1,6 @@
-### MySQL
-
+---
+layout: post
+---
 MySQL có lưu lại timestamp access của từng bảng trong 1 schema :O Hơi bị đã, nhưng chỉ hỗ trợ MyISAM, còn InnoDB thì phải dùng trick.
 
 ```sql
@@ -7,12 +8,8 @@ MySQL có lưu lại timestamp access của từng bảng trong 1 schema :O Hơi
       table_name,
       update_time as LastAccessed
     FROM information_schema.tables
-    WHERE table_schema = 'yimresearch_lite'
+    WHERE table_schema = 'scheme_name'
     AND table_name LIKE '%temp\_survey%'
     AND DATE_ADD(update_time, INTERVAL +1 month) < CURDATE()
     ORDER BY update_time DESC
 ```
-
-### DB Architecture
-
-http://richarddingwall.name/2009/11/20/the-trouble-with-soft-delete/
