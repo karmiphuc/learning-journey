@@ -12,7 +12,7 @@ Theo mình, các kịch bản khả dĩ sau này có thể là:
 
 4. Thực ra vụ cho phép người dùng thể hiện Feelings trên nội dung thế này thì Bitly đã có từ lâu (https://bitly.com/a/feelings)
 
-#karmiphucblog
+`#karmiphucblog`
 
 --- @DigitalMarketer
 
