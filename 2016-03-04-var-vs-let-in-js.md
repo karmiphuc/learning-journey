@@ -7,6 +7,8 @@ tags: javascript
 
 Source: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/let
 
+![Demo](https://pbs.twimg.com/media/CbiYLKOUMAAblbw.png)
+
 > You can use the let keyword to bind variables locally in the scope of for loops. This is different from the var keyword in the head of a for loop, which makes the variables visible in the whole function containing the loop.
 
 ```js
