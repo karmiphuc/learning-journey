@@ -19,6 +19,8 @@ Ví dụ, một app tra cứu từ biển số xe ra tên tỉnh thì chỉ cầ
  
 Vấn đề nữa là vị cứu tinh Android M chỉ chiếm chưa đến 3% trong tổng số thiết bị Android hiện tại ([số liệu ngày 07/03/2016 của Google](https://developer.android.com/about/dashboards/index.html)), và các hãng thì đang chậm chạp cập nhật cho từng thiết bị.
 
+Android M giải quyết vấn đề App Permission rất ngon lành và thân thiện với người dùng: [Runtime App Permissions](https://www.youtube.com/embed/iZqDdvhTZj0). Lúa hóa vấn đề lại thì thế này: giả dụ bạn đang xài Skype để chat với bạn bè, và bạn bấm nút Video để có thể chat hình ảnh thì lúc này sẽ có 1 thông báo hiện lên hỏi bạn có muốn cho phép Skype truy xuất camera điện thoại hay không. Điều này sẽ bảo vệ bạn khỏi các mưu đồ xấu xa sau lưng bạn, khi một app cố tình truy xuất những gì mà nó chưa được phép.
+
 Nếu bạn đang tìm mua điện thoại Android trong năm nay thì nên ưu tiên các tên tuổi sau (thông tin chính thức, cập nhật tháng 03/2016):
 
 ### 1. Google Nexus
