@@ -3,7 +3,7 @@ layout: post
 summary: "Nếu bạn có bất kỳ ý tưởng nào hay ho, đừng ngần ngại thể hiện dù là sự sáng tạo trong những việc nhỏ nhặt thường ngày. Sự sáng tạo thông minh và đúng cách sẽ mang lại cho bạn nhiều cơ hội bất ngờ."
 tags: People
 ---
-![https://raw.githubusercontent.com/karmiphuc/learning-journey/master/stories/16463465_918391214963847_5723319112345397076_o.jpg](https://www.facebook.com/photo.php?fbid=918391214963847&set=a.166460560156920.36971.100003789324646&type=3&permPage=1)
+![https://www.facebook.com/photo.php?fbid=918391214963847&set=a.166460560156920.36971.100003789324646&type=3&permPage=1](https://raw.githubusercontent.com/karmiphuc/learning-journey/master/stories/16463465_918391214963847_5723319112345397076_o.jpg)
 
 > "To live a creative life, we must lose our fear of being wrong" - Joseph Chilton Pearce
 
