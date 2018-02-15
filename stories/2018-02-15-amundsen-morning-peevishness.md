@@ -1,0 +1,7 @@
+https://www.artofmanliness.com/2014/02/02/how-to-overcome-morning-peevishness-advice-from-an-antarctic-explorer/
+
+During the winter months before Amundsen’s expedition was to begin, the Norwegian explorers holed up in a camp at the edge of the Great Ice Barrier and made preparations for their journey in the spring. Amundsen understood that for a small, isolated group, deprived of creature comforts, and living on a bleak sheet of ice, maintaining morale was paramount, and that how the men started each morning would set the tone for the rest of the day’s efforts. If you think you have trouble getting out of bed in the morning, imagine motivating yourself to crawl out of your warm, furry reindeer skin sleeping bag to face another day of toiling in a tiny workshop built into the snow, as –70 degree winds howl through the barren landscape outside. As Amundsen’s biographer puts it, in such a situation “morning peevishness is a considerable emotional hazard.”
+
+> “Because of the prizes, everybody insists at going out to look at the weather. And that’s why the prizes have been put up. But nobody knew it. I find this little morning visit out in the open so beneficial. Even if it is but for a minute or two, it is unbelievable how that short time helps to wake a sleepy man and bring feelings into equilibrium before [the day’s first] cup of nice, warm coffee.
+>
+> Even the best-humoured person in the world has a touch of morning peevishness and that has to be removed as unnoticeably as possible.”
