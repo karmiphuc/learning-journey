@@ -1,3 +1,15 @@
+## SHORT VERSION
+
+1. What am I doing well?
+2. What can I do better?
+3. Why am I working for Grab?
+4. What big decisions are looming over me right now? (I try to answer them on the spot, just based on gut)
+5. What other to-do’s are looming over me right now?
+6. What’s uncertain? What are questions that need answering?
+7. What’s one unexpected thing I can do this week?
+
+## LONG VERSION
+
 - What did I learn last week? – If you have trouble answering this question, it’s time for a change.  It doesn’t matter how old you are, you should learn something new every week.
 - What was my greatest accomplishment over the past week? – Reflecting on your accomplishments is a healthy way to raise self confidence and contentment.  It’s also an effective way to track your progress.
 - Which moment from last week was the most memorable and why? – It may open up your mind to new passions and goals, or simple pastimes worth revisiting.
