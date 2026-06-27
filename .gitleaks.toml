@@ -1,4 +1,4 @@
-# Generic noise allowlist for karmiphuc personal repos.
+# learning-journey gitleaks config — extends default + noise allowlist
 [extend]
 useDefault = true
 [allowlist]
@@ -11,6 +11,8 @@ paths = [
   '''LICENSE$''',
   '''LICENSE\.md$''',
   '''LICENSE\.txt$''',
-  '''CHANGELOG.*'''
+  '''CHANGELOG.*''',
+  # Archived web scrapes from 2018: contain public recaptcha sitekeys + ephemeral tokens, not credentials
+  '''2018-06-02Amazing_History_Facts\.htm$'''
 ]
-description = "Generic allowlist: lockfiles, binaries, license files, changelogs"
+description = "Generic allowlist + archived 2018 web scrapes with public-only keys"
